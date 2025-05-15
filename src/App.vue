@@ -13,6 +13,11 @@
             BUILDING
           </router-link>
         </li>
+        <li class="nav-item">
+          <router-link class="nav-link" :to="{name: 'QR КОД'}">
+            QR КОД
+          </router-link>
+        </li>
       </ul>
     </nav>
   </header>
